@@ -1,0 +1,9 @@
+name: bag_to_xrmocap
+channels:
+  - conda-forge
+dependencies:
+  - opencv
+  - python=3.10
+  - pip
+  - numpy[version='>=1.21']
+prefix: /home/admpdi/miniforge3/envs/bag_to_xrmocap
